@@ -49,8 +49,7 @@ Independente da forma que for contribuir, aqui é um ambiente aberto para todas 
 
 ## Sites e Blogs
 * [Jornada do Dinheiro](http://jornadadodinheiro.com/)
-* [Jurus](http://www.jurus.com.br/#/home)
-* [Bússola do Investidor - ABC do Investidor](https://www.bussoladoinvestidor.com.br/abc_do_investidor/)
+* [Bússola do Investidor](https://www.bussoladoinvestidor.com.br/) - calculadora de IR, gráficos, conteúdo e muito mais
 * [Ranking de ações - Magic Formula de Joel Greenblatt](http://barganhasdabolsa.blogspot.com/p/ranking-de-acoes.html)
 * [Fundamentus](http://www.fundamentus.com.br/)
 * [App Renda Fixa](https://apprendafixa.com.br/app/indicadores) - comparação de fundos de renda fixa
@@ -63,6 +62,7 @@ Independente da forma que for contribuir, aqui é um ambiente aberto para todas 
 * [Decompondo o ROIC: a análise DuPont](https://www.infomoney.com.br/blogs/blog-numeros-falam/post/3396310/decompondo-roic-analise-dupont)
 * [A Magic Formula de Value Investing](https://www.infomoney.com.br/blogs/blog-numeros-falam/post/3577460/magic-formula-value-investing)
 * [Imposto de renda](https://queroficarrico.com/blog/imposto-de-renda-acoes/)
+* [ABC do Investidor](https://www.bussoladoinvestidor.com.br/abc_do_investidor/) - dicionário do investidor
 
 ## Videos
 
