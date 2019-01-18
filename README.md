@@ -25,6 +25,7 @@ Independente da forma que for contribuir, aqui é um ambiente aberto para todas 
 * [Páginas no Facebook](#páginas-no-facebook)
 * [Perfis do Twitter](#perfis-do-twitter)
 * [Finanças internacionais](#finanças-internacionais)
+* [Glossário](GLOSSARIO.md)
 
 ## Bancos
 * [Inter](https://www.bancointer.com.br/)
