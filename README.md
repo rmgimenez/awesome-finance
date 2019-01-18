@@ -16,16 +16,17 @@ Independente da forma que for contribuir, aqui é um ambiente aberto para todas 
 # Conteúdo
 * [Bancos](#bancos)
 * [Corretoras](#corretoras)
-* [Criptomoeda](#criptomoeda)
 * [Canais no You Tube](canais-no-youtube)
 * [Sites e Blogs](#sites-e-blogs)
 * [Posts](#posts)
+* [Videos](#videos)
+* [Criptomoeda](#criptomoeda)
 * [Páginas no Facebook](#páginas-no-facebook)
 * [Perfis do Twitter](#perfis-do-twitter)
 * [Finanças internacionais](#finanças-internacionais)
 
 ## Bancos
-
+* [Inter](https://www.bancointer.com.br/)
 
 ## Corretoras
 * [Magnetis](https://magnetis.com.br/)
@@ -35,9 +36,6 @@ Independente da forma que for contribuir, aqui é um ambiente aberto para todas 
 * [Warren](https://oiwarren.com/)
 * [modalmais](https://www.modalmais.com.br/)
 * [MyCAP](https://www.mycap.com.br/home)
-
-## Criptomoeda
-* [Introdução](CRYPTOCURRENCY.md)
 
 ## Canais no You Tube
 * [Moeda na era digital - Fernando Ulrich](https://www.youtube.com/channel/UCLJkh3QjHsLtK0LZFd28oGg)
@@ -56,9 +54,16 @@ Independente da forma que for contribuir, aqui é um ambiente aberto para todas 
 * [Fundamentus](http://www.fundamentus.com.br/)
 * [App Renda Fixa](https://apprendafixa.com.br/app/indicadores) - comparação de fundos de renda fixa
 * [meusdividendos.com](https://www.meusdividendos.com/)
+* [Agenda de dividendos](http://www.dividendobr.com/)
 
 ## Posts
 * [Decompondo o ROIC: a análise DuPont](https://www.infomoney.com.br/blogs/blog-numeros-falam/post/3396310/decompondo-roic-analise-dupont)
+* [A Magic Formula de Value Investing](https://www.infomoney.com.br/blogs/blog-numeros-falam/post/3577460/magic-formula-value-investing)
+
+## Videos
+
+## Criptomoeda
+* [Introdução](CRYPTOCURRENCY.md)
 
 ## Páginas no Facebook
 
