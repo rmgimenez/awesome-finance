@@ -1,4 +1,4 @@
-Awesome finance
+Awesome Investimentos
 ----
 
 # Sobre
