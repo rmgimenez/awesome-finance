@@ -57,6 +57,7 @@ Independente da forma que for contribuir, aqui é um ambiente aberto para todas 
 * [meusdividendos.com](https://www.meusdividendos.com/)
 * [Agenda de dividendos](http://www.dividendobr.com/)
 * [Valor Intriseco](https://www.valorintrinseco.com/)
+* [Clube FII](https://www.clubefii.com.br/)
 
 ## Posts
 * [Decompondo o ROIC: a análise DuPont](https://www.infomoney.com.br/blogs/blog-numeros-falam/post/3396310/decompondo-roic-analise-dupont)
