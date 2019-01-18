@@ -20,6 +20,7 @@ Independente da forma que for contribuir, aqui é um ambiente aberto para todas 
 * [Sites e Blogs](#sites-e-blogs)
 * [Posts](#posts)
 * [Videos](#videos)
+* [Softwares e Ferramentas](#softwares-e-ferramentas)
 * [Criptomoeda](#criptomoeda)
 * [Páginas no Facebook](#páginas-no-facebook)
 * [Perfis do Twitter](#perfis-do-twitter)
@@ -55,12 +56,20 @@ Independente da forma que for contribuir, aqui é um ambiente aberto para todas 
 * [App Renda Fixa](https://apprendafixa.com.br/app/indicadores) - comparação de fundos de renda fixa
 * [meusdividendos.com](https://www.meusdividendos.com/)
 * [Agenda de dividendos](http://www.dividendobr.com/)
+* [Valor Intriseco](https://www.valorintrinseco.com/)
 
 ## Posts
 * [Decompondo o ROIC: a análise DuPont](https://www.infomoney.com.br/blogs/blog-numeros-falam/post/3396310/decompondo-roic-analise-dupont)
 * [A Magic Formula de Value Investing](https://www.infomoney.com.br/blogs/blog-numeros-falam/post/3577460/magic-formula-value-investing)
 
 ## Videos
+
+
+## Softwares e Ferramentas
+* [Amibroker](https://www.amibroker.com/) - software para análise técnica
+* [GnuCash](https://www.gnucash.org/) - programa de controle contábil gratuíto
+* [Alzex Finance](https://www.alzex.com/pt/index.html) - software de finanças pessoais pago
+* [Money Manager EX](https://www.moneymanagerex.org/) - programa de controle financeiro gratuíto
 
 
 ## Criptomoeda
