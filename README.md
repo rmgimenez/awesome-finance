@@ -61,6 +61,7 @@ Independente da forma que for contribuir, aqui é um ambiente aberto para todas 
 ## Posts
 * [Decompondo o ROIC: a análise DuPont](https://www.infomoney.com.br/blogs/blog-numeros-falam/post/3396310/decompondo-roic-analise-dupont)
 * [A Magic Formula de Value Investing](https://www.infomoney.com.br/blogs/blog-numeros-falam/post/3577460/magic-formula-value-investing)
+* [Imposto de renda](https://queroficarrico.com/blog/imposto-de-renda-acoes/)
 
 ## Videos
 
