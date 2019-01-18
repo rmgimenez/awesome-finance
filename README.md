@@ -14,12 +14,12 @@ Outra forma, você pode abrir um pull request com a sua alteração respeitando 
 Independente da forma que for contribuir, aqui é um ambiente aberto para todas as pessoas. Não serão permitidas ofensas a qualquer pessoa ou coletivo.
 
 # Conteúdo
-
 * [Bancos](#bancos)
 * [Corretoras](#corretoras)
 * [Criptomoeda](#criptomoeda)
 * [Canais no You Tube](canais-no-youtube)
 * [Sites e Blogs](#sites-e-blogs)
+* [Posts](#posts)
 * [Páginas no Facebook](#páginas-no-facebook)
 * [Perfis do Twitter](#perfis-do-twitter)
 * [Finanças internacionais](#finanças-internacionais)
@@ -28,20 +28,18 @@ Independente da forma que for contribuir, aqui é um ambiente aberto para todas 
 
 
 ## Corretoras
-
 * [Magnetis](https://magnetis.com.br/)
 * [Clear](https://www.clear.com.br/site)
 * [Easyinvest](https://www.easynvest.com.br/)
 * [XP Investimentos](https://investimentos.xpi.com.br/#/passo/1)
 * [Warren](https://oiwarren.com/)
 * [modalmais](https://www.modalmais.com.br/)
+* [MyCAP](https://www.mycap.com.br/home)
 
 ## Criptomoeda
-
 * [Introdução](CRYPTOCURRENCY.md)
 
 ## Canais no You Tube
-
 * [Moeda na era digital - Fernando Ulrich](https://www.youtube.com/channel/UCLJkh3QjHsLtK0LZFd28oGg)
 * [Gustavo Cerbasi](https://www.youtube.com/channel/UC_mSfchV-fgpPy-vuwML8_A)
 * [Quero ficar rico - Rafael Seabra](https://www.youtube.com/channel/UCaFy7I27Ht8hs6_kmZ8zWuw)
@@ -54,6 +52,13 @@ Independente da forma que for contribuir, aqui é um ambiente aberto para todas 
 * [Jornada do Dinheiro](http://jornadadodinheiro.com/)
 * [Jurus](http://www.jurus.com.br/#/home)
 * [Bússola do Investidor - ABC do Investidor](https://www.bussoladoinvestidor.com.br/abc_do_investidor/)
+* [Ranking de ações - Magic Formula de Joel Greenblatt](http://barganhasdabolsa.blogspot.com/p/ranking-de-acoes.html)
+* [Fundamentus](http://www.fundamentus.com.br/)
+* [App Renda Fixa](https://apprendafixa.com.br/app/indicadores) - comparação de fundos de renda fixa
+* [meusdividendos.com](https://www.meusdividendos.com/)
+
+## Posts
+* [Decompondo o ROIC: a análise DuPont](https://www.infomoney.com.br/blogs/blog-numeros-falam/post/3396310/decompondo-roic-analise-dupont)
 
 ## Páginas no Facebook
 
@@ -62,6 +67,5 @@ Independente da forma que for contribuir, aqui é um ambiente aberto para todas 
 
 
 ## Finanças internacionais
-
 * [quantmind/awesome-open-finance](https://github.com/quantmind/awesome-open-finance)
 * [ashishb/personal-finance-awesome](https://github.com/ashishb/personal-finance-awesome)
