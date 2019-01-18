@@ -51,7 +51,7 @@ Independente da forma que for contribuir, aqui é um ambiente aberto para todas 
 * [Jornada do Dinheiro](http://jornadadodinheiro.com/)
 * [Bússola do Investidor](https://www.bussoladoinvestidor.com.br/) - calculadora de IR, gráficos, conteúdo e muito mais
 * [Ranking de ações - Magic Formula de Joel Greenblatt](http://barganhasdabolsa.blogspot.com/p/ranking-de-acoes.html)
-* [Fundamentus](http://www.fundamentus.com.br/)
+* [Fundamentus](http://www.fundamentus.com.br/) - site com indicadores e dados de balanços das empresas
 * [App Renda Fixa](https://apprendafixa.com.br/app/indicadores) - comparação de fundos de renda fixa
 * [meusdividendos.com](https://www.meusdividendos.com/)
 * [Agenda de dividendos](http://www.dividendobr.com/)
@@ -61,7 +61,7 @@ Independente da forma que for contribuir, aqui é um ambiente aberto para todas 
 ## Posts
 * [Decompondo o ROIC: a análise DuPont](https://www.infomoney.com.br/blogs/blog-numeros-falam/post/3396310/decompondo-roic-analise-dupont)
 * [A Magic Formula de Value Investing](https://www.infomoney.com.br/blogs/blog-numeros-falam/post/3577460/magic-formula-value-investing)
-* [Imposto de renda](https://queroficarrico.com/blog/imposto-de-renda-acoes/)
+* [Imposto de renda](https://queroficarrico.com/blog/imposto-de-renda-acoes/) - como declarar as ações no imposto de renda
 * [ABC do Investidor](https://www.bussoladoinvestidor.com.br/abc_do_investidor/) - dicionário do investidor
 
 ## Videos
@@ -69,9 +69,9 @@ Independente da forma que for contribuir, aqui é um ambiente aberto para todas 
 
 ## Softwares e Ferramentas
 * [Amibroker](https://www.amibroker.com/) - software para análise técnica
-* [GnuCash](https://www.gnucash.org/) - programa de controle contábil gratuíto
+* [GnuCash](https://www.gnucash.org/) - software de controle contábil gratuíto
 * [Alzex Finance](https://www.alzex.com/pt/index.html) - software de finanças pessoais pago
-* [Money Manager EX](https://www.moneymanagerex.org/) - programa de controle financeiro gratuíto
+* [Money Manager EX](https://www.moneymanagerex.org/) - software de controle financeiro gratuíto
 
 
 ## Criptomoeda
