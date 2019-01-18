@@ -62,8 +62,9 @@ Independente da forma que for contribuir, aqui é um ambiente aberto para todas 
 
 ## Videos
 
+
 ## Criptomoeda
-* [Introdução](CRYPTOCURRENCY.md)
+
 
 ## Páginas no Facebook
 
