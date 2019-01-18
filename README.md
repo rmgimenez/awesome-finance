@@ -49,6 +49,7 @@ Independente da forma que for contribuir, aqui é um ambiente aberto para todas 
 * [EconoMirna - Mirna](https://www.youtube.com/channel/UCwLxXLLWEIJFHEeTMlYqHTA)
 
 ## Sites e Blogs
+* [Bovespa](http://www.b3.com.br/pt_br/)
 * [Jornada do Dinheiro](http://jornadadodinheiro.com/)
 * [Bússola do Investidor](https://www.bussoladoinvestidor.com.br/) - calculadora de IR, gráficos, conteúdo e muito mais
 * [Ranking de ações - Magic Formula de Joel Greenblatt](http://barganhasdabolsa.blogspot.com/p/ranking-de-acoes.html)
@@ -58,6 +59,7 @@ Independente da forma que for contribuir, aqui é um ambiente aberto para todas 
 * [Agenda de dividendos](http://www.dividendobr.com/)
 * [Valor Intriseco](https://www.valorintrinseco.com/)
 * [Clube FII](https://www.clubefii.com.br/)
+* [FundsExplorer](https://www.fundsexplorer.com.br/) - site com indicadores de fundos imobiliários - FII
 
 ## Posts
 * [Decompondo o ROIC: a análise DuPont](https://www.infomoney.com.br/blogs/blog-numeros-falam/post/3396310/decompondo-roic-analise-dupont)
