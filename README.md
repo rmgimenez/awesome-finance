@@ -40,13 +40,14 @@ Independente da forma que for contribuir, aqui é um ambiente aberto para todas 
 * [MyCAP](https://www.mycap.com.br/home)
 
 ## Canais no You Tube
-* [Moeda na era digital - Fernando Ulrich](https://www.youtube.com/channel/UCLJkh3QjHsLtK0LZFd28oGg)
+* [Moeda na era digital - Fernando Ulrich](https://www.youtube.com/channel/UCLJkh3QjHsLtK0LZFd28oGg) - canal sobre moedas digitais
 * [Gustavo Cerbasi](https://www.youtube.com/channel/UC_mSfchV-fgpPy-vuwML8_A)
 * [Quero ficar rico - Rafael Seabra](https://www.youtube.com/channel/UCaFy7I27Ht8hs6_kmZ8zWuw)
 * [Me poupe! - Nath](https://www.youtube.com/channel/UC8mDF5mWNGE-Kpfcvnn0bUg)
 * [O Primo Rico - Thiago Nigro](https://www.youtube.com/channel/UCT4nDeU5pv1XIGySbSK-GgA)
 * [Blog de Valor - André Bona](https://www.youtube.com/user/andrelvbona)
 * [EconoMirna - Mirna](https://www.youtube.com/channel/UCwLxXLLWEIJFHEeTMlYqHTA)
+* [BTG Pactual digital](https://www.youtube.com/channel/UCE5Uu3nZlVbTur6xwhdoKhg)
 
 ## Sites e Blogs
 * [Bovespa](http://www.b3.com.br/pt_br/)
@@ -58,7 +59,7 @@ Independente da forma que for contribuir, aqui é um ambiente aberto para todas 
 * [meusdividendos.com](https://www.meusdividendos.com/)
 * [Agenda de dividendos](http://www.dividendobr.com/)
 * [Valor Intriseco](https://www.valorintrinseco.com/)
-* [Clube FII](https://www.clubefii.com.br/)
+* [Clube FII](https://www.clubefii.com.br/) - site para controlar a sua carteira de FII
 * [FundsExplorer](https://www.fundsexplorer.com.br/) - site com indicadores de fundos imobiliários - FII
 
 ## Posts
