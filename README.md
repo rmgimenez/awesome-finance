@@ -24,9 +24,6 @@ Independente da forma que for contribuir, aqui é um ambiente aberto para todas 
 * [Análise Fundamentalista](#análise-fundamentalista)
 * [Softwares e Ferramentas](#softwares-e-ferramentas)
 * [Criptomoeda](#criptomoeda)
-* [Páginas no Facebook](#páginas-no-facebook)
-* [Perfis do Twitter](#perfis-do-twitter)
-* [Finanças internacionais](#finanças-internacionais)
 * [Glossário](GLOSSARIO.md)
 
 ## Bancos
@@ -90,13 +87,3 @@ Independente da forma que for contribuir, aqui é um ambiente aberto para todas 
 
 ## Criptomoeda
 
-
-## Páginas no Facebook
-
-
-## Perfis do Twitter
-
-
-## Finanças internacionais
-* [quantmind/awesome-open-finance](https://github.com/quantmind/awesome-open-finance)
-* [ashishb/personal-finance-awesome](https://github.com/ashishb/personal-finance-awesome)
