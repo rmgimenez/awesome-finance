@@ -50,6 +50,7 @@ Independente da forma que for contribuir, aqui é um ambiente aberto para todas 
 
 ## Sites e Blogs
 * [Bovespa](http://www.b3.com.br/pt_br/)
+  * [Composição índice Bovespa](http://www.bmfbovespa.com.br/pt_br/produtos/indices/indices-amplos/indice-ibovespa-ibovespa-composicao-da-carteira.htm)
 * [Jornada do Dinheiro](http://jornadadodinheiro.com/)
 * [Bússola do Investidor](https://www.bussoladoinvestidor.com.br/) - calculadora de IR, gráficos, conteúdo e muito mais
 * [Ranking de ações - Magic Formula de Joel Greenblatt](http://barganhasdabolsa.blogspot.com/p/ranking-de-acoes.html)
