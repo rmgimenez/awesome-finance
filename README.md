@@ -57,7 +57,7 @@ Independente da forma que for contribuir, aqui é um ambiente aberto para todas 
 * [Fundamentus](http://www.fundamentus.com.br/) - site com indicadores e dados de balanços das empresas
 * [App Renda Fixa](https://apprendafixa.com.br/app/indicadores) - comparação de fundos de renda fixa
 * [meusdividendos.com](https://www.meusdividendos.com/) - Encontre as melhores empresas para investir. Rankings, indicadores, balanços, proventos, fatos relevantes, alertas e muitos mais
-* [Agenda de dividendos](http://www.dividendobr.com/)
+* [Agenda de dividendos](http://www.dividendobr.com/) - Tabela de pagamento de dividendos da bolsa de valores de São Paulo - Bovespa
 * [Valor Intriseco](https://www.valorintrinseco.com/)
 * [Clube FII](https://www.clubefii.com.br/) - site para controlar a sua carteira de FII
 * [FundsExplorer](https://www.fundsexplorer.com.br/) - site com indicadores de fundos imobiliários - FII
@@ -77,7 +77,7 @@ Independente da forma que for contribuir, aqui é um ambiente aberto para todas 
 * [Amibroker](https://www.amibroker.com/) - software para análise técnica
 * [Amibroker - Fórmulas e indicadores](https://github.com/rmgimenez/amibroker-formulas) - repositório com várias fórmulas e indicadores para o amibroker
 * [wisestocktrader](https://www.wisestocktrader.com/amibroker-afl-formulas-indicators) - fórmulas e indicadores para o amibroker
-* [tradingview](https://br.tradingview.com/) - site para ver gráficos de ações
+* [tradingview](https://br.tradingview.com/) - Cotações em tempo real; gráficos gratuitos e ideias de trade de experts. O TradingView é uma rede social para traders e investidores de Ações, Futuros e mercados Forex!
 * [GnuCash](https://www.gnucash.org/) - software de controle contábil gratuíto
 * [Alzex Finance](https://www.alzex.com/pt/index.html) - software de finanças pessoais pago
 * [Money Manager EX](https://www.moneymanagerex.org/) - software de controle financeiro gratuíto
