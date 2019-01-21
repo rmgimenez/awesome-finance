@@ -72,7 +72,10 @@ Independente da forma que for contribuir, aqui é um ambiente aberto para todas 
 
 ## Análise Técnica
 * Ichimoku
- * [Como utilizar o indicador Ichimoku Kinko Hyo?](https://www.melhoresbrokers.com.br/t%C3%A9cnicas-de-negocia%C3%A7%C3%A3o/ichimoku-kinko-hyo.html)
+  * [Como utilizar o indicador Ichimoku Kinko Hyo?](https://www.melhoresbrokers.com.br/t%C3%A9cnicas-de-negocia%C3%A7%C3%A3o/ichimoku-kinko-hyo.html)
+  * [Nuvem de Ichimoku Estrategia simples e eficiente](https://br.tradingview.com/chart/EURUSD/NeHnroUB/)
+  * [Nuvem de Ichimoku: o que é e como utilizar](https://www.investimentonabolsa.com/2015/05/analise-tecnica-nuvem-de-ichimoku.html)
+  * [Como funcionam as "Nuvens de Ichimoku"? [VISÃO TÉCNICA - Bloco 1]](https://www.youtube.com/watch?v=Ymd5sZQ43jA)
 
 ## Análise Fundamentalista
 * [Decompondo o ROIC: a análise DuPont](https://www.infomoney.com.br/blogs/blog-numeros-falam/post/3396310/decompondo-roic-analise-dupont)
