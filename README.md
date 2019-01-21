@@ -56,7 +56,7 @@ Independente da forma que for contribuir, aqui é um ambiente aberto para todas 
 * [Ranking de ações - Magic Formula de Joel Greenblatt](http://barganhasdabolsa.blogspot.com/p/ranking-de-acoes.html)
 * [Fundamentus](http://www.fundamentus.com.br/) - site com indicadores e dados de balanços das empresas
 * [App Renda Fixa](https://apprendafixa.com.br/app/indicadores) - comparação de fundos de renda fixa
-* [meusdividendos.com](https://www.meusdividendos.com/)
+* [meusdividendos.com](https://www.meusdividendos.com/) - Encontre as melhores empresas para investir. Rankings, indicadores, balanços, proventos, fatos relevantes, alertas e muitos mais
 * [Agenda de dividendos](http://www.dividendobr.com/)
 * [Valor Intriseco](https://www.valorintrinseco.com/)
 * [Clube FII](https://www.clubefii.com.br/) - site para controlar a sua carteira de FII
