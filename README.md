@@ -77,6 +77,7 @@ Independente da forma que for contribuir, aqui é um ambiente aberto para todas 
 * [Amibroker](https://www.amibroker.com/) - software para análise técnica
 * [Amibroker - Fórmulas e indicadores](https://github.com/rmgimenez/amibroker-formulas) - repositório com várias fórmulas e indicadores para o amibroker
 * [wisestocktrader](https://www.wisestocktrader.com/amibroker-afl-formulas-indicators) - fórmulas e indicadores para o amibroker
+* [tradingview](https://br.tradingview.com/) - site para ver gráficos de ações
 * [GnuCash](https://www.gnucash.org/) - software de controle contábil gratuíto
 * [Alzex Finance](https://www.alzex.com/pt/index.html) - software de finanças pessoais pago
 * [Money Manager EX](https://www.moneymanagerex.org/) - software de controle financeiro gratuíto
