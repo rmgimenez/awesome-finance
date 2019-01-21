@@ -20,6 +20,8 @@ Independente da forma que for contribuir, aqui é um ambiente aberto para todas 
 * [Sites e Blogs](#sites-e-blogs)
 * [Posts](#posts)
 * [Videos](#videos)
+* [Análise Técnica](#analise-tecnica)
+* [Análise Fundamentalista](#analise-fundamentalista)
 * [Softwares e Ferramentas](#softwares-e-ferramentas)
 * [Criptomoeda](#criptomoeda)
 * [Páginas no Facebook](#páginas-no-facebook)
@@ -64,14 +66,17 @@ Independente da forma que for contribuir, aqui é um ambiente aberto para todas 
 * [Ricardo Borges](https://ricardoborges.com/) - site que disponibiliza uma base de dados que pode ser importada no amibroker, além de análises de várias empresas
 
 ## Posts
-* [Decompondo o ROIC: a análise DuPont](https://www.infomoney.com.br/blogs/blog-numeros-falam/post/3396310/decompondo-roic-analise-dupont)
-* [A Magic Formula de Value Investing](https://www.infomoney.com.br/blogs/blog-numeros-falam/post/3577460/magic-formula-value-investing)
 * [Imposto de renda](https://queroficarrico.com/blog/imposto-de-renda-acoes/) - como declarar as ações no imposto de renda
 * [ABC do Investidor](https://www.bussoladoinvestidor.com.br/abc_do_investidor/) - dicionário do investidor
 * [Base de dados do Metastock gratuita e como colocá-la no Amibroker](https://traderlucrativo.com.br/base-de-dados-do-metastock-gratuita/)
 
 ## Videos
 
+## Análise Técnica
+
+## Análise Fundamentalista
+* [Decompondo o ROIC: a análise DuPont](https://www.infomoney.com.br/blogs/blog-numeros-falam/post/3396310/decompondo-roic-analise-dupont)
+* [A Magic Formula de Value Investing](https://www.infomoney.com.br/blogs/blog-numeros-falam/post/3577460/magic-formula-value-investing)
 
 ## Softwares e Ferramentas
 * [Amibroker](https://www.amibroker.com/) - software para análise técnica
