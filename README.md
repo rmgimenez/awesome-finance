@@ -20,8 +20,8 @@ Independente da forma que for contribuir, aqui é um ambiente aberto para todas 
 * [Sites e Blogs](#sites-e-blogs)
 * [Posts](#posts)
 * [Videos](#videos)
-* [Analise Tecnica](#analise-tecnica)
-* [Analise Fundamentalista](#analise-fundamentalista)
+* [Análise Técnica](#análise-técnica)
+* [Análise Fundamentalista](#análise-fundamentalista)
 * [Softwares e Ferramentas](#softwares-e-ferramentas)
 * [Criptomoeda](#criptomoeda)
 * [Páginas no Facebook](#páginas-no-facebook)
@@ -72,9 +72,9 @@ Independente da forma que for contribuir, aqui é um ambiente aberto para todas 
 
 ## Videos
 
-## Analise Tecnica
+## Análise Técnica
 
-## Analise Fundamentalista
+## Análise Fundamentalista
 * [Decompondo o ROIC: a análise DuPont](https://www.infomoney.com.br/blogs/blog-numeros-falam/post/3396310/decompondo-roic-analise-dupont)
 * [A Magic Formula de Value Investing](https://www.infomoney.com.br/blogs/blog-numeros-falam/post/3577460/magic-formula-value-investing)
 
