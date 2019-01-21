@@ -61,12 +61,14 @@ Independente da forma que for contribuir, aqui é um ambiente aberto para todas 
 * [Valor Intriseco](https://www.valorintrinseco.com/)
 * [Clube FII](https://www.clubefii.com.br/) - site para controlar a sua carteira de FII
 * [FundsExplorer](https://www.fundsexplorer.com.br/) - site com indicadores de fundos imobiliários - FII
+* [Ricardo Borges](https://ricardoborges.com/) - site que disponibiliza uma base de dados que pode ser importada no amibroker, além de análises de várias empresas
 
 ## Posts
 * [Decompondo o ROIC: a análise DuPont](https://www.infomoney.com.br/blogs/blog-numeros-falam/post/3396310/decompondo-roic-analise-dupont)
 * [A Magic Formula de Value Investing](https://www.infomoney.com.br/blogs/blog-numeros-falam/post/3577460/magic-formula-value-investing)
 * [Imposto de renda](https://queroficarrico.com/blog/imposto-de-renda-acoes/) - como declarar as ações no imposto de renda
 * [ABC do Investidor](https://www.bussoladoinvestidor.com.br/abc_do_investidor/) - dicionário do investidor
+* [Base de dados do Metastock gratuita e como colocá-la no Amibroker](https://traderlucrativo.com.br/base-de-dados-do-metastock-gratuita/)
 
 ## Videos
 
