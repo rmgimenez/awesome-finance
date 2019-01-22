@@ -81,6 +81,7 @@ Independente da forma que for contribuir, aqui é um ambiente aberto para todas 
 ## Análise Fundamentalista
 * [Decompondo o ROIC: a análise DuPont](https://www.infomoney.com.br/blogs/blog-numeros-falam/post/3396310/decompondo-roic-analise-dupont)
 * [A Magic Formula de Value Investing](https://www.infomoney.com.br/blogs/blog-numeros-falam/post/3577460/magic-formula-value-investing)
+* [Como identificar empresas com vantagem competitiva de longo prazo?](https://oprimorico.com.br/investimentos/como-identificar-empresas-com-vantagem-competitiva-de-longo-prazo/)
 
 ## Softwares e Ferramentas
 * [Amibroker](https://www.amibroker.com/) - software para análise técnica
