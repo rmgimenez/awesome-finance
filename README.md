@@ -47,6 +47,7 @@ Independente da forma que for contribuir, aqui é um ambiente aberto para todas 
 * [Blog de Valor - André Bona](https://www.youtube.com/user/andrelvbona)
 * [EconoMirna - Mirna](https://www.youtube.com/channel/UCwLxXLLWEIJFHEeTMlYqHTA)
 * [BTG Pactual digital](https://www.youtube.com/channel/UCE5Uu3nZlVbTur6xwhdoKhg)
+* [Danilo Zanini](https://www.youtube.com/channel/UCyRlbA2gfOj5dxEdTYyt-6g)
 
 ## Sites e Blogs
 * [Bovespa](http://www.b3.com.br/pt_br/)
