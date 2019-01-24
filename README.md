@@ -69,6 +69,8 @@ Independente da forma que for contribuir, aqui é um ambiente aberto para todas 
 * [Imposto de renda](https://queroficarrico.com/blog/imposto-de-renda-acoes/) - como declarar as ações no imposto de renda
 * [ABC do Investidor](https://www.bussoladoinvestidor.com.br/abc_do_investidor/) - dicionário do investidor
 * [Base de dados do Metastock gratuita e como colocá-la no Amibroker](https://traderlucrativo.com.br/base-de-dados-do-metastock-gratuita/)
+* [O que são opções? - Site Infomoney](https://www.infomoney.com.br/opcoes-acoes)
+* [Mercado de Opções: O que é, Vantagens e Como Investir - Corretora Rico](https://blog.rico.com.vc/mercado-de-opcoes)
 
 ## Videos
 
