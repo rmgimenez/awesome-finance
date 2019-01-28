@@ -99,6 +99,7 @@ Independente da forma que for contribuir, aqui é um ambiente aberto para todas 
 * [GnuCash](https://www.gnucash.org/) - software de controle contábil gratuíto
 * [Alzex Finance](https://www.alzex.com/pt/index.html) - software de finanças pessoais pago
 * [Money Manager EX](https://www.moneymanagerex.org/) - software de controle financeiro gratuíto
+* [Indicadores para Metatrader 5](https://www.mql5.com/pt/code/mt5)
 
 
 ## Criptomoeda
