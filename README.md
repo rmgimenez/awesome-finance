@@ -93,6 +93,7 @@ Independente da forma que for contribuir, aqui é um ambiente aberto para todas 
 * [Cursos gratuítos da Bovespa](https://educacional.bmfbovespa.com.br/subgrupo?id=14)
 * [Portal do Trader](https://portaldotrader.com.br/home)
 * [Forex sem enganações](http://www.forexsemenganacoes.com.br/) - vários cursos
+* [https://portaldotrader.com.br/aprenda](https://portaldotrader.com.br/aprenda)
 
 ## Softwares e Ferramentas
 * [Amibroker](https://www.amibroker.com/) - software para análise técnica
