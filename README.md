@@ -64,6 +64,7 @@ Independente da forma que for contribuir, aqui é um ambiente aberto para todas 
 * [Clube FII](https://www.clubefii.com.br/) - site para controlar a sua carteira de FII
 * [FundsExplorer](https://www.fundsexplorer.com.br/) - site com indicadores de fundos imobiliários - FII
 * [Ricardo Borges](https://ricardoborges.com/) - site que disponibiliza uma base de dados que pode ser importada no amibroker, além de análises de várias empresas
+* [Blog do Lex](http://lex10at.blogspot.com/)
 
 ## Posts
 * [Imposto de renda](https://queroficarrico.com/blog/imposto-de-renda-acoes/) - como declarar as ações no imposto de renda
